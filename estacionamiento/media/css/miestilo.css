@@ -1,0 +1,25 @@
+.lef-margi{
+    margin: 0 .5em 0 0;
+}
+.right-button-margin{
+    margin: 0 0 1em 0;
+    overflow: hidden;
+}
+.modal-body {
+    padding: 20px 20px 0px 20px;
+    text-align: center;
+}
+.modal-footer{
+    text-align: center;
+}
+
+
+
+h1 {
+  font-style:italic;
+  font-weight:bold;
+  font-size:2em;
+  text-align: center;
+  font-color:#FF0000;
+  font-family:'Helvetica','Verdana','Monaco',sans-serif;
+}
